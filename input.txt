@@ -1,0 +1,1 @@
+POST	100	http://127.0.0.1:8081/auctions/12/bids	{'auction_id':12,'user_id':<<rand_int>>,'type':'red'}
